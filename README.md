@@ -1,0 +1,2 @@
+# corsvulnvalidator
+cors vulnerability validator
